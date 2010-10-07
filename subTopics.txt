@@ -1,0 +1,265 @@
+ID	description
+1.1	Bilgisayar > İnternet > Web Tasarımı ve Geliştirme
+1.2	Bilgisayar > İnternet > Web
+1.3	Bilgisayar > İnternet > Alan Adları
+1.4	Bilgisayar > İnternet > Arama
+1.5	Bilgisayar > İnternet > Bilgi Kaynakları
+1.6	Bilgisayar > İnternet > Danışmanlar
+1.7	Bilgisayar > İnternet > Dernekler
+1.8	Bilgisayar > İnternet > E-posta
+1.9	Bilgisayar > İnternet > Erişim Sağlayıcıları
+1.10	Bilgisayar > İnternet > İnternetten Faks
+2.1	Bilgisayar > Programlama > PHP
+2.2	Bilgisayar > Programlama > Kişisel Sayfalar
+2.3	Bilgisayar > Programlama > ASP
+2.4	Bilgisayar > Programlama > Delphi
+2.5	Bilgisayar > Programlama > C-sharp
+2.6	Bilgisayar > Programlama > HTML
+2.7	Bilgisayar > Programlama > Java
+2.8	Bilgisayar > Programlama > JavaScript
+2.9	Bilgisayar > Programlama > SQL
+2.10	Bilgisayar > Programlama > Visual Basic
+3.1	Bilgisayar > Yazılım > Arşivler
+3.2	Bilgisayar > Yazılım > İşletim Sistemleri
+3.3	Bilgisayar > Yazılım > Satıcılar
+3.4	Bilgisayar > Yazılım > İnternet
+3.5	Bilgisayar > Yazılım > Sektörel
+3.6	Bilgisayar > Yazılım > Muhasebe
+3.7	Bilgisayar > Yazılım > Eğitim
+3.8	Bilgisayar > Yazılım > Masaüstü Özelleştirme
+3.9	Bilgisayar > Yazılım > Multimedya
+3.10	Bilgisayar > Yazılım > Üretim
+4.1	Bilim > Sosyal Bilimler > Ekonomi
+4.2	Bilim > Sosyal Bilimler > Tarih
+4.3	Bilim > Sosyal Bilimler > Psikoloji
+4.4	Bilim > Sosyal Bilimler > Arkeoloji
+4.5	Bilim > Sosyal Bilimler > Dil Bilimi
+4.6	Bilim > Sosyal Bilimler > Felsefe
+4.7	Bilim > Sosyal Bilimler > Antropoloji
+4.8	Bilim > Sosyal Bilimler > Coğrafya
+4.9	Bilim > Sosyal Bilimler > Sosyoloji
+5.1	Bölgesel > Avrupa > Almanya
+5.2	Bölgesel > Avrupa > Avusturya
+5.3	Bölgesel > Avrupa > Belçika
+5.4	Bölgesel > Avrupa > İngiltere
+5.5	Bölgesel > Avrupa > Hollanda
+5.6	Bölgesel > Avrupa > Rusya
+5.7	Bölgesel > Avrupa > İtalya
+5.8	Bölgesel > Avrupa > Basın ve Yayın
+5.9	Bölgesel > Avrupa > Bulgaristan
+5.10	Bölgesel > Avrupa > Devlet
+6.1	Eğlence ve Yaşam > Tatil ve Yolculuk > Acenteler
+6.2	Eğlence ve Yaşam > Tatil ve Yolculuk > Yatçılık ve Marina
+6.3	Eğlence ve Yaşam > Tatil ve Yolculuk > Gezi Notları ve Anıları
+6.4	Eğlence ve Yaşam > Tatil ve Yolculuk > Gezi Rehberleri
+6.5	Eğlence ve Yaşam > Tatil ve Yolculuk > Konaklama
+6.6	Eğlence ve Yaşam > Tatil ve Yolculuk > Ulaşım
+6.7	Eğlence ve Yaşam > Tatil ve Yolculuk > Yayınlar
+7.1	Ekonomi ve İş Dünyası > Elektrik ve Elektronik > Güç Kaynakları
+7.2	Ekonomi ve İş Dünyası > Elektrik ve Elektronik > Test ve Ölçüm
+7.3	Ekonomi ve İş Dünyası > Elektrik ve Elektronik > Kablolama ve Aksesuarlar
+7.4	Ekonomi ve İş Dünyası > Elektrik ve Elektronik > Telekomünikasyon
+7.5	Ekonomi ve İş Dünyası > Elektrik ve Elektronik > Elektrik Taahhüt
+7.6	Ekonomi ve İş Dünyası > Elektrik ve Elektronik > Bilgi Kaynakları
+7.7	Ekonomi ve İş Dünyası > Elektrik ve Elektronik > Isıtma ve Soğutma
+8.1	Ekonomi ve İş Dünyası > Finansal Hizmetler > Sigorta
+8.2	Ekonomi ve İş Dünyası > Finansal Hizmetler > Bankacılık Hizmetleri
+8.3	Ekonomi ve İş Dünyası > Finansal Hizmetler > Faktoring
+8.4	Ekonomi ve İş Dünyası > Finansal Hizmetler > Finansal Kiralama
+8.5	Ekonomi ve İş Dünyası > Finansal Hizmetler > Barter
+8.6	Ekonomi ve İş Dünyası > Finansal Hizmetler > Aracı Kurumlar
+8.7	Ekonomi ve İş Dünyası > Finansal Hizmetler > Bilgi Kaynakları
+8.8	Ekonomi ve İş Dünyası > Finansal Hizmetler > Gayrimenkul Yatırım
+8.9	Ekonomi ve İş Dünyası > Finansal Hizmetler > Konut Kredileri
+8.10	Ekonomi ve İş Dünyası > Finansal Hizmetler > Kredi
+9.1	Ekonomi ve İş Dünyası > Gıda Maddeleri ve İçecek > Gıda Makineleri
+9.2	Ekonomi ve İş Dünyası > Gıda Maddeleri ve İçecek > Tatlı ve Şekerleme
+9.3	Ekonomi ve İş Dünyası > Gıda Maddeleri ve İçecek > İçecek
+9.4	Ekonomi ve İş Dünyası > Gıda Maddeleri ve İçecek > Konserve ve Kurutulmuş Gıda
+9.5	Ekonomi ve İş Dünyası > Gıda Maddeleri ve İçecek > Süt ve Süt Ürünleri
+9.6	Ekonomi ve İş Dünyası > Gıda Maddeleri ve İçecek > Un ve Unlu Mamuller
+9.7	Ekonomi ve İş Dünyası > Gıda Maddeleri ve İçecek > Et, Tavuk ve Balık
+9.8	Ekonomi ve İş Dünyası > Gıda Maddeleri ve İçecek > Toplu Yemek
+9.9	Ekonomi ve İş Dünyası > Gıda Maddeleri ve İçecek > Yağ
+9.10	Ekonomi ve İş Dünyası > Gıda Maddeleri ve İçecek > Baharat
+10.1	Ekonomi ve İş Dünyası > Otomotiv > Parça ve Aksesuarlar
+10.2	Ekonomi ve İş Dünyası > Otomotiv > Satış ve Servis
+10.3	Ekonomi ve İş Dünyası > Otomotiv > Üreticiler ve Distribütörler
+10.4	Ekonomi ve İş Dünyası > Otomotiv > Araç Kiralama
+10.5	Ekonomi ve İş Dünyası > Otomotiv > Motosiklet
+10.6	Ekonomi ve İş Dünyası > Otomotiv > Bilgi Kaynakları
+11.1	Ekonomi ve İş Dünyası > Pazarlama ve Reklamcılık > Reklamcılık
+11.2	Ekonomi ve İş Dünyası > Pazarlama ve Reklamcılık > Pazar Araştırması
+11.3	Ekonomi ve İş Dünyası > Pazarlama ve Reklamcılık > Basın ve Yayın
+11.4	Ekonomi ve İş Dünyası > Pazarlama ve Reklamcılık > Manken Ajansları
+11.5	Ekonomi ve İş Dünyası > Pazarlama ve Reklamcılık > Halkla İlişkiler
+11.6	Ekonomi ve İş Dünyası > Pazarlama ve Reklamcılık > Pazarlama
+12.1	Ekonomi ve İş Dünyası > Taşımacılık ve Lojistik > Denizcilik
+12.2	Ekonomi ve İş Dünyası > Taşımacılık ve Lojistik > Yurtiçi Taşımacılık
+12.3	Ekonomi ve İş Dünyası > Taşımacılık ve Lojistik > Otobüs
+12.4	Ekonomi ve İş Dünyası > Taşımacılık ve Lojistik > Uluslararası Taşımacılık
+12.5	Ekonomi ve İş Dünyası > Taşımacılık ve Lojistik > Havacılık
+12.6	Ekonomi ve İş Dünyası > Taşımacılık ve Lojistik > Lojistik
+12.7	Ekonomi ve İş Dünyası > Taşımacılık ve Lojistik > Bilgi Kaynakları
+12.8	Ekonomi ve İş Dünyası > Taşımacılık ve Lojistik > Kargo
+12.9	Ekonomi ve İş Dünyası > Taşımacılık ve Lojistik > Kurye
+13.1	Ekonomi ve İş Dünyası > Tekstil ve Konfeksiyon > Dokuma
+13.2	Ekonomi ve İş Dünyası > Tekstil ve Konfeksiyon > Makine ve Ekipman
+13.3	Ekonomi ve İş Dünyası > Tekstil ve Konfeksiyon > Endüstriyel İplik ve Dikiş
+13.4	Ekonomi ve İş Dünyası > Tekstil ve Konfeksiyon > Bilgi Kaynakları
+13.5	Ekonomi ve İş Dünyası > Tekstil ve Konfeksiyon > Deri
+13.6	Ekonomi ve İş Dünyası > Tekstil ve Konfeksiyon > Kimyasallar
+14.1	Ekonomi ve İş Dünyası > Ticari Hizmetler > Yangın ve Güvenlik
+14.2	Ekonomi ve İş Dünyası > Ticari Hizmetler > Fuarcılık ve Organizasyon
+14.3	Ekonomi ve İş Dünyası > Ticari Hizmetler > Çeviri
+14.4	Ekonomi ve İş Dünyası > Ticari Hizmetler > Danışmanlık
+14.5	Ekonomi ve İş Dünyası > Ticari Hizmetler > Kalite Kontrolü ve Takibi
+14.6	Ekonomi ve İş Dünyası > Ticari Hizmetler > Bilgi Kaynakları
+14.7	Ekonomi ve İş Dünyası > Ticari Hizmetler > Bina Yönetim
+14.8	Ekonomi ve İş Dünyası > Ticari Hizmetler > Muhasebe ve Mali Müşavirlik
+14.9	Ekonomi ve İş Dünyası > Ticari Hizmetler > Ses, Işık ve Görüntü Sistemleri
+15.1	Ekonomi ve İş Dünyası > Tüketici Ürün ve Hizmetleri > Ev ve Bahçe
+15.2	Ekonomi ve İş Dünyası > Tüketici Ürün ve Hizmetleri > Hazır Giyim
+15.3	Ekonomi ve İş Dünyası > Tüketici Ürün ve Hizmetleri > Ofis Ürünleri
+15.4	Ekonomi ve İş Dünyası > Tüketici Ürün ve Hizmetleri > Ateşli Silahlar
+15.5	Ekonomi ve İş Dünyası > Tüketici Ürün ve Hizmetleri > El Sanatları
+15.6	Ekonomi ve İş Dünyası > Tüketici Ürün ve Hizmetleri > Evcil Hayvan Malzemeleri
+15.7	Ekonomi ve İş Dünyası > Tüketici Ürün ve Hizmetleri > Güzellik
+15.8	Ekonomi ve İş Dünyası > Tüketici Ürün ve Hizmetleri > Hobi
+15.9	Ekonomi ve İş Dünyası > Tüketici Ürün ve Hizmetleri > Kuyumcular
+15.10	Ekonomi ve İş Dünyası > Tüketici Ürün ve Hizmetleri > Oyun ve Oyuncak
+16.1	Ekonomi ve İş Dünyası > Yapı Sektörü > Yapı Malzemeleri
+16.2	Ekonomi ve İş Dünyası > Yapı Sektörü > İnşaat Müteahhitleri
+16.3	Ekonomi ve İş Dünyası > Yapı Sektörü > İş ve İnşaat Makineleri
+16.4	Ekonomi ve İş Dünyası > Yapı Sektörü > Kapı ve Pencere Sistemleri
+16.5	Ekonomi ve İş Dünyası > Yapı Sektörü > Ahşap ve Çelik Sistemler
+16.6	Ekonomi ve İş Dünyası > Yapı Sektörü > Asansör ve Yürüyen Merdiven Sistemleri
+16.7	Ekonomi ve İş Dünyası > Yapı Sektörü > Asma-Germe Sistemler
+16.8	Ekonomi ve İş Dünyası > Yapı Sektörü > Bilgi Kaynakları
+16.9	Ekonomi ve İş Dünyası > Yapı Sektörü > Maket ve 3D Modelleme
+16.10	Ekonomi ve İş Dünyası > Yapı Sektörü > Mimarlık
+17.1	Ev > Yemek > Web Günlükleri
+17.2	Ev > Yemek > Yemek Tarifleri
+17.3	Ev > Yemek > Aşçılar
+17.4	Ev > Yemek > İçecek
+17.5	Ev > Yemek > Lokantalar
+17.6	Ev > Yemek > Dergiler
+18.1	Kaynaklar > Eğitim > Üniversiteler
+18.2	Kaynaklar > Eğitim > Kurs ve Dershaneler
+18.3	Kaynaklar > Eğitim > Dernekler
+18.4	Kaynaklar > Eğitim > Ders Yardımcıları
+18.5	Kaynaklar > Eğitim > Dizinler
+18.6	Kaynaklar > Eğitim > Eğitimsel Testler
+18.7	Kaynaklar > Eğitim > Eğitim Teknolojileri
+18.8	Kaynaklar > Eğitim > İlk ve Orta Öğretim
+18.9	Kaynaklar > Eğitim > Okul Öncesi
+18.10	Kaynaklar > Eğitim > Özel Eğitim
+19.1	Kültür ve Sanat > Edebiyat > Şiir
+19.2	Kültür ve Sanat > Edebiyat > Yazarlar
+19.3	Kültür ve Sanat > Edebiyat > Dergiler ve E-dergiler
+19.4	Kültür ve Sanat > Edebiyat > Çevrimiçi Okuma
+19.5	Kültür ve Sanat > Edebiyat > Çocuk
+19.6	Kültür ve Sanat > Edebiyat > Elektronik Kitaplar
+19.7	Kültür ve Sanat > Edebiyat > İnceleme ve Eleştiriler
+19.8	Kültür ve Sanat > Edebiyat > Mitler ve Halk Hikayeleri
+19.9	Kültür ve Sanat > Edebiyat > Sohbet ve Forumlar
+19.10	Kültür ve Sanat > Edebiyat > Türk Edebiyatı
+20.1	Kültür ve Sanat > Film ve Sinema > Filmler
+20.2	Kültür ve Sanat > Film ve Sinema > Basın ve Yayın
+20.3	Kültür ve Sanat > Film ve Sinema > Festivaller
+20.4	Kültür ve Sanat > Film ve Sinema > Filmcilik
+20.5	Kültür ve Sanat > Film ve Sinema > Firmalar
+20.6	Kültür ve Sanat > Film ve Sinema > Salonlar
+20.7	Kültür ve Sanat > Film ve Sinema > Dernekler
+20.8	Kültür ve Sanat > Film ve Sinema > Sohbet ve Forumlar
+20.9	Kültür ve Sanat > Film ve Sinema > Türler
+21.1	Kültür ve Sanat > Fotoğrafçılık > Fotoğrafçılar
+21.2	Kültür ve Sanat > Fotoğrafçılık > Şirketler
+21.3	Kültür ve Sanat > Fotoğrafçılık > Kuruluşlar
+21.4	Kültür ve Sanat > Fotoğrafçılık > Sohbet ve Forumlar
+21.5	Kültür ve Sanat > Fotoğrafçılık > Dergiler
+21.6	Kültür ve Sanat > Fotoğrafçılık > Eğitim
+21.7	Kültür ve Sanat > Fotoğrafçılık > Galeriler
+22.1	Kültür ve Sanat > Müzik > Türler
+22.2	Kültür ve Sanat > Müzik > Müzik Aletleri
+22.3	Kültür ve Sanat > Müzik > Eğitim
+22.4	Kültür ve Sanat > Müzik > Basın ve Yayın
+22.5	Kültür ve Sanat > Müzik > Gruplar ve Sanatçılar
+22.6	Kültür ve Sanat > Müzik > Kaynaklar
+22.7	Kültür ve Sanat > Müzik > Konserler ve Etkinlikler
+22.8	Kültür ve Sanat > Müzik > Kurumlar
+22.9	Kültür ve Sanat > Müzik > Şarkı Sözleri
+22.10	Kültür ve Sanat > Müzik > Ses Dosyaları
+23.1	Oyunlar > Video Oyunları > Rol Yapma
+23.2	Oyunlar > Video Oyunları > Strateji
+23.3	Oyunlar > Video Oyunları > Spor
+23.4	Oyunlar > Video Oyunları > Devasa Çok Oyunculu Çevrimiçi Oyunlar
+23.5	Oyunlar > Video Oyunları > Tarayıcı Tabanlı
+23.6	Oyunlar > Video Oyunları > Aksiyon
+23.7	Oyunlar > Video Oyunları > Araba Sürme ve Yarış
+23.8	Oyunlar > Video Oyunları > Ateş Etme
+23.9	Oyunlar > Video Oyunları > Eğlence
+23.10	Oyunlar > Video Oyunları > Haberler ve İncelemeler
+24.1	Oyunlar > Bilgisayar ve Video Oyunları > Demo ve Ücretsiz Yüklemeler
+24.2	Oyunlar > Bilgisayar ve Video Oyunları > Assassin's Creed Serileri
+24.3	Oyunlar > Bilgisayar ve Video Oyunları > Batman, Arkham Asylum
+24.4	Oyunlar > Bilgisayar ve Video Oyunları > Bionic Commando
+24.5	Oyunlar > Bilgisayar ve Video Oyunları > BioShock
+24.6	Oyunlar > Bilgisayar ve Video Oyunları > Borderlands
+24.7	Oyunlar > Bilgisayar ve Video Oyunları > Call of Juarez Serisi
+24.8	Oyunlar > Bilgisayar ve Video Oyunları > Chronicles of Riddick Serisi
+24.9	Oyunlar > Bilgisayar ve Video Oyunları > Command &amp; Conquer Serisi
+24.10	Oyunlar > Bilgisayar ve Video Oyunları > Cryostasis, Sleep of Reason
+25.1	Sağlık > Hastalıklar > Beyin ve Sinir Hastalıkları
+25.2	Sağlık > Hastalıklar > İdrar Yolu Hastalıkları
+25.3	Sağlık > Hastalıklar > Kan Hastalıkları
+25.4	Sağlık > Hastalıklar > Psikiyatrik Hastalıklar
+25.5	Sağlık > Hastalıklar > Cilt Hastalıkları
+25.6	Sağlık > Hastalıklar > Enfeksiyon Hastalıkları
+25.7	Sağlık > Hastalıklar > Sindirim Sistemi Hastalıkları
+25.8	Sağlık > Hastalıklar > Endokrin Hastalıklar
+25.9	Sağlık > Hastalıklar > Kanser
+25.10	Sağlık > Hastalıklar > Uyku Bozuklukları
+26.1	Spor > Futbol > Kulüpler
+26.2	Spor > Futbol > UEFA
+26.3	Spor > Futbol > Futbolcular
+26.4	Spor > Futbol > Hakem ve Gözlemciler
+26.5	Spor > Futbol > Halı Saha
+26.6	Spor > Futbol > Ligler
+26.7	Spor > Futbol > Uluslararası Turnuvalar
+27.1	Toplum > Din ve Maneviyat > İslam
+27.2	Toplum > Din ve Maneviyat > Hristiyanlık
+27.3	Toplum > Din ve Maneviyat > Kehanet
+27.4	Toplum > Din ve Maneviyat > Ateizm
+27.5	Toplum > Din ve Maneviyat > Ezoterizm
+27.6	Toplum > Din ve Maneviyat > Hümanizm
+27.7	Toplum > Din ve Maneviyat > Kızılderililer
+27.8	Toplum > Din ve Maneviyat > Scientology
+27.9	Toplum > Din ve Maneviyat > Spiritüalizm
+27.10	Toplum > Din ve Maneviyat > Yoga
+28.1	Toplum > Hukuk > Avukatlar ve Hukuk Büroları
+28.2	Toplum > Hukuk > Yasal Hizmetler
+28.3	Toplum > Hukuk > Barolar
+28.4	Toplum > Hukuk > Eğitim
+28.5	Toplum > Hukuk > Yayınlar
+28.6	Toplum > Hukuk > Yazılım
+28.7	Toplum > Hukuk > Yüksek Mahkemeler
+29.1	Toplum > Politika > Politikacılar
+29.2	Toplum > Politika > Sosyalizm
+29.3	Toplum > Politika > Atatürkçülük
+29.4	Toplum > Politika > Anarşizm
+29.5	Toplum > Politika > Basın ve Yayın
+29.6	Toplum > Politika > Partiler
+29.7	Toplum > Politika > Ülkücü Hareket
+29.8	Toplum > Politika > Liberalizm
+29.9	Toplum > Politika > Milli Görüş
+29.10	Toplum > Politika > Seçimler
+30.1	Toplum > Sorunlar > Sağlık
+30.2	Toplum > Sorunlar > Hayvan Hakları
+30.3	Toplum > Sorunlar > İnsan Hakları
+30.4	Toplum > Sorunlar > Barış
+30.5	Toplum > Sorunlar > Soykırım
+30.6	Toplum > Sorunlar > Sivil Toplum Girişimleri
+30.7	Toplum > Sorunlar > Ermeni İddiaları
+30.8	Toplum > Sorunlar > Terörizm
+30.9	Toplum > Sorunlar > Yolsuzluk

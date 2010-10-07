@@ -1,0 +1,31 @@
+ID	description
+1	Bilgisayar > İnternet
+2	Bilgisayar > Programlama
+3	Bilgisayar > Yazılım
+4	Bilim > Sosyal Bilimler
+5	Bölgesel > Avrupa
+6	Eğlence ve Yaşam > Tatil ve Yolculuk
+7	Ekonomi ve İş Dünyası > Elektrik ve Elektronik
+8	Ekonomi ve İş Dünyası > Finansal Hizmetler
+9	Ekonomi ve İş Dünyası > Gıda Maddeleri ve İçecek
+10	Ekonomi ve İş Dünyası > Otomotiv
+11	Ekonomi ve İş Dünyası > Pazarlama ve Reklamcılık
+12	Ekonomi ve İş Dünyası > Taşımacılık ve Lojistik
+13	Ekonomi ve İş Dünyası > Tekstil ve Konfeksiyon
+14	Ekonomi ve İş Dünyası > Ticari Hizmetler
+15	Ekonomi ve İş Dünyası > Tüketici Ürün ve Hizmetleri
+16	Ekonomi ve İş Dünyası > Yapı Sektörü
+17	Ev > Yemek
+18	Kaynaklar > Eğitim
+19	Kültür ve Sanat > Edebiyat
+20	Kültür ve Sanat > Film ve Sinema
+21	Kültür ve Sanat > Fotoğrafçılık
+22	Kültür ve Sanat > Müzik
+23	Oyunlar > Video Oyunları
+24	Oyunlar > Bilgisayar ve Video Oyunları
+25	Sağlık > Hastalıklar
+26	Spor > Futbol
+27	Toplum > Din ve Maneviyat
+28	Toplum > Hukuk
+29	Toplum > Politika
+30	Toplum > Sorunlar
