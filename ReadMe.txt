@@ -98,7 +98,7 @@ Characters per snippet: 91.31 (min 6, max 279)
 USAGE LICENSE
 ==========================================================
 
-CC-BY-SA 2010 - Expect where otherwise noted, this work is licensed under:
+CC-BY-SA 2010 - Except where otherwise noted, this work is licensed under:
 http://creativecommons.org/licenses/by-sa/3.0/
 
 Author: Çağatay Çallı
