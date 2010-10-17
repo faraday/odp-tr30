@@ -111,7 +111,7 @@ The data set may be used for any research purposes.
 
 Please acknowledge the use of the data set in publications
 resulting from the use of the data set:
-Calli C. (2010). ODP TR-30 dataset, http://github.com/faraday/odp-tr30
+Ç. Çallı (2010). ODP TR-30 dataset, http://github.com/faraday/odp-tr30
 
 
 
